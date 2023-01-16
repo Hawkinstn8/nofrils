@@ -24,7 +24,7 @@ endif
 set background=light
 
 " Baseline
-hi Normal term=NONE cterm=NONE ctermfg=black ctermbg=255 gui=NONE guifg=#000000 guibg=#E4E4E4
+hi Normal term=NONE cterm=NONE ctermfg=black ctermbg=black gui=NONE guifg=#000000 guibg=#E4E4E4
 
 " Faded
 hi ColorColumn term=NONE cterm=NONE ctermfg=NONE ctermbg=253 gui=NONE guifg=NONE guibg=#DADADA
